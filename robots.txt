@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veterinaireatlas-marrakech.online/sitemap.xml
