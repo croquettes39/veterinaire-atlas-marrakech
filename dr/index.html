@@ -304,6 +304,7 @@ img[data-zoom]{cursor:zoom-in}
 .lb .x{top:calc(12px + env(safe-area-inset-top,0px));inset-inline-end:calc(12px + env(safe-area-inset-right,0px))}
 .lb .pv{bottom:calc(14px + env(safe-area-inset-bottom,0px));left:calc(50% - 60px)}
 .lb .nx{bottom:calc(14px + env(safe-area-inset-bottom,0px));left:calc(50% + 12px)}
+@media (max-width:640px){.hero-video video,.vidbox video{aspect-ratio:9/16;max-height:82svh;object-fit:cover}.vidbox{max-width:420px;margin-inline:auto}}
 footer.site{padding-block:48px 28px}
 footer.site .cols{display:grid;grid-template-columns:1.3fr 1fr 1fr 1fr;gap:28px}
 footer.site h2{font-family:var(--f-body);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--gold-ink);margin-bottom:12px;font-weight:600}
@@ -336,7 +337,7 @@ footer.site .credit a{color:var(--gold-ink);font-weight:600}
 <main id="contenu">
 
 <section class="hero-video" aria-label="فيديو ديال العيادة">
-    <video src="/video/hero.mp4" poster="/video/hero.jpg" autoplay muted loop playsinline preload="auto" controls data-autoplay></video>
+    <video autoplay muted loop playsinline preload="auto" controls data-autoplay></video><script>(function(v){var m=false;try{m=matchMedia("(max-width:640px)").matches}catch(e){}v.poster=m?"/video/hero-vertical.jpg":"/video/hero.jpg";v.src=m?"/video/hero-vertical.mp4":"/video/hero.mp4"})(document.currentScript.previousElementSibling)</script>
   </section>
   <section class="hero"><div class="wrap">
       <div>
