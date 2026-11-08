@@ -1,1 +1,10 @@
-{"cleanUrls": true}
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/dr.html", "destination": "/dr", "permanent": true }
+  ],
+  "headers": [
+    { "source": "/(img|video)/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=2592000" }] }
+  ]
+}

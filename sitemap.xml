@@ -1,9 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url><loc>https://veterinaireatlas-marrakech.online/</loc><lastmod>2026-11-08</lastmod>
+  <url><loc>https://veterinaireatlas-marrakech.online/</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="fr" href="https://veterinaireatlas-marrakech.online/"/>
-    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://veterinaireatlas-marrakech.online/dr"/></url>
-  <url><loc>https://veterinaireatlas-marrakech.online/dr</loc><lastmod>2026-11-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://veterinaireatlas-marrakech.online/dr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://veterinaireatlas-marrakech.online/"/>
+  </url>
+  <url><loc>https://veterinaireatlas-marrakech.online/dr</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="fr" href="https://veterinaireatlas-marrakech.online/"/>
-    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://veterinaireatlas-marrakech.online/dr"/></url>
+    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://veterinaireatlas-marrakech.online/dr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://veterinaireatlas-marrakech.online/"/>
+  </url>
+  <url><loc>https://veterinaireatlas-marrakech.online/soins</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://veterinaireatlas-marrakech.online/soins"/>
+    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://veterinaireatlas-marrakech.online/dr/soins"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://veterinaireatlas-marrakech.online/soins"/>
+  </url>
+  <url><loc>https://veterinaireatlas-marrakech.online/dr/soins</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://veterinaireatlas-marrakech.online/soins"/>
+    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://veterinaireatlas-marrakech.online/dr/soins"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://veterinaireatlas-marrakech.online/soins"/>
+  </url>
+  <url><loc>https://veterinaireatlas-marrakech.online/cabinet</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://veterinaireatlas-marrakech.online/cabinet"/>
+    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://veterinaireatlas-marrakech.online/dr/cabinet"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://veterinaireatlas-marrakech.online/cabinet"/>
+  </url>
+  <url><loc>https://veterinaireatlas-marrakech.online/dr/cabinet</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://veterinaireatlas-marrakech.online/cabinet"/>
+    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://veterinaireatlas-marrakech.online/dr/cabinet"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://veterinaireatlas-marrakech.online/cabinet"/>
+  </url>
+  <url><loc>https://veterinaireatlas-marrakech.online/vaccins</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://veterinaireatlas-marrakech.online/vaccins"/>
+    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://veterinaireatlas-marrakech.online/dr/vaccins"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://veterinaireatlas-marrakech.online/vaccins"/>
+  </url>
+  <url><loc>https://veterinaireatlas-marrakech.online/dr/vaccins</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://veterinaireatlas-marrakech.online/vaccins"/>
+    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://veterinaireatlas-marrakech.online/dr/vaccins"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://veterinaireatlas-marrakech.online/vaccins"/>
+  </url>
+  <url><loc>https://veterinaireatlas-marrakech.online/avis</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://veterinaireatlas-marrakech.online/avis"/>
+    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://veterinaireatlas-marrakech.online/dr/avis"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://veterinaireatlas-marrakech.online/avis"/>
+  </url>
+  <url><loc>https://veterinaireatlas-marrakech.online/dr/avis</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://veterinaireatlas-marrakech.online/avis"/>
+    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://veterinaireatlas-marrakech.online/dr/avis"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://veterinaireatlas-marrakech.online/avis"/>
+  </url>
+  <url><loc>https://veterinaireatlas-marrakech.online/contact</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://veterinaireatlas-marrakech.online/contact"/>
+    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://veterinaireatlas-marrakech.online/dr/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://veterinaireatlas-marrakech.online/contact"/>
+  </url>
+  <url><loc>https://veterinaireatlas-marrakech.online/dr/contact</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://veterinaireatlas-marrakech.online/contact"/>
+    <xhtml:link rel="alternate" hreflang="ar-MA" href="https://veterinaireatlas-marrakech.online/dr/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://veterinaireatlas-marrakech.online/contact"/>
+  </url>
 </urlset>
